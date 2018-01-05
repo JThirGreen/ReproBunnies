@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">@string/app_name</string>
+    <string name="start_app_button">Start Reproducing</string>
+    <dimen name="title_text_size">20dp</dimen>
+</resources>
